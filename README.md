@@ -1,1 +1,2 @@
-CIENCIA DE DATOS
+CIENCIA DE DATOS\\
+Víctor Manuel González Aguayo
